@@ -1,0 +1,16 @@
+.JasonsButton {
+    background-color: blueviolet;
+
+}
+
+@media screen and (mim-width: 768px) {
+    .JasonsButton{
+        background-color: chartreuse;
+    }
+}
+
+@media screen and (mim-width: 1024) {
+    .JasonsButton{
+       background-color: cyan;
+    }
+}
